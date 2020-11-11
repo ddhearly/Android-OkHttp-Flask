@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coba API</string>
+    <string name="test_the_connection">Test The connection</string>
+</resources>
